@@ -1,0 +1,26 @@
+{
+    "name": "bow",
+    "version": "0.0.1",
+    "homepage": "https://github.com/megabow/bow",
+    "authors": [
+        "Long Do <me@dotronglong.com>",
+        "Nguyen Bao <baonguyenyam@gmail.com>"
+    ],
+    "description": "Front-End JS & CSS Helper",
+    "keywords": [
+        "bow",
+        "js",
+        "helper",
+        "request",
+        "ajax",
+        "modal"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
